@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "ordervalidate",
+        "uuid": 17318552,
+        "checksum": "s4lcai"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "production"
+    }
+}
